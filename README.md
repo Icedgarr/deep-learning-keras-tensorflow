@@ -3,13 +3,11 @@
     <h1 style="text-align: center;">Deep Learning with Keras</h1>
     <img style="text-align: left" src="imgs/keras-logo-small.jpg" width="10%" />
 <div>
+# Keras Hands-on
 
-<div>
-    <h2 style="text-align: center;">Tutorial @ EuroScipy 2016</h2>
-    <img style="text-align: left" src="imgs/euroscipy_2016_logo.png" width="40%" />
-</div>    
+##### Massimo Quadrana
 
-##### Yam Peleg,  Valerio Maggio
+This is reduced version of the terrific tutorial "Deep Learning With Keras" held at EuroScipy 2016 from Yam Peleg, Valerio Maggio. The complete version of the tutorial is available at this [repository](https://github.com/leriomaggio/deep-learning-keras-euroscipy2016/)
 
 # Goal of this Tutorial
 
@@ -18,16 +16,12 @@
 - **Understand** how easy is to do basic and *advanced* DL models in Keras;
     - **Examples and Hand-on Excerises** along the way.
 
-## Source
-
-https://github.com/leriomaggio/deep-learning-keras-euroscipy2016/
-
 ---
+<!---
 
-# (Tentative) Schedule 
+# (Tentative) Schedule
 
 ## Attention: Spoilers Warning!
-
 
 - **Setup** (`10 mins`)
 
@@ -89,6 +83,7 @@ https://github.com/leriomaggio/deep-learning-keras-euroscipy2016/
     - HandsOn: IMDB
 
 - **Wrap up and Conclusions** (`5 mins`)
+-->
 
 ---
 
